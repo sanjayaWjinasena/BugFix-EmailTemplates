@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'BugFix - EmailTemplates',
-    'version': '17.0.0.0.2',
+    'version': '17.0.0.0.3',
     'summary': 'Studio-authored mail.template records',
     'author': 'Jinasena Agricultural Machinery (Pvt) Ltd.',
     'category': 'Discuss',
